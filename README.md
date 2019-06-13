@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Alessio here!
+Publishing Consultant, freelance translator, amateur developer, dilettante musician.
